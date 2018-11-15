@@ -2,6 +2,11 @@
 #### Demo: https://shivavamsi.github.io/binary-calculator/
 Read more about the binary calculator challenge on [hackerrank](https://www.hackerrank.com/challenges/js10-binary-calculator)
 
+## Binary Calculator Screenshot
+<p align="center">
+  <img src="images/calculator-screenshot.png" alt="Calculator Screenshot" width="435" height="180">
+</p>
+
 ## Description
 This calculator performs operations on binary numbers.
 
