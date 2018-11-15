@@ -113,7 +113,13 @@ var controller = (function(calcCtrl, uiCtrl) {
 
   // clears the display on calculator
   var clearDisplay = function() {
+	// clear the displayBoard
     uiCtrl.display("0");
+	// reset the operator
+	operator = null;
+	// clear the operands
+	operandOne = null;
+	operandTwo = null;
   };
 
   // displays the new input on the displayBoard
